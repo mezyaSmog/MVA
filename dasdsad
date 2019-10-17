@@ -1,0 +1,73 @@
+[33mcommit ae2a7820e3d5a968754df177d703f1819e39788e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mnewbranch[m[33m, [m[1;32mf3[m[33m, [m[1;32mf2[m[33m, [m[1;32mf1[m[33m)[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 15:59:32 2019 +0300
+
+    Revert "New file"
+    
+    This reverts commit 824d0cdcec12747209b9cf3183807f17e7e2dad0.
+
+[33mcommit 0d78923659b531f83258e29d55c60e27311e6c29[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 15:29:52 2019 +0300
+
+    Revert "Wrong commit"
+    
+    This reverts commit 75a7648e09f48d599c7ba83f2f9fe1e26c854095.
+
+[33mcommit 75a7648e09f48d599c7ba83f2f9fe1e26c854095[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 15:29:21 2019 +0300
+
+    Wrong commit
+
+[33mcommit e587c3b2e4159b6cdb0907dd1c015382debe67b5[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 15:27:08 2019 +0300
+
+    Revert "Revert "only test.txt""
+    
+    This reverts commit e026edfb8d4ab3ddfa0b84225d32ae7d748f112b.
+
+[33mcommit e026edfb8d4ab3ddfa0b84225d32ae7d748f112b[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 15:19:09 2019 +0300
+
+    Revert "only test.txt"
+    
+    This reverts commit bd46a41300f78583518eb85d466856d805f859ec.
+
+[33mcommit bd46a41300f78583518eb85d466856d805f859ec[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 15:17:52 2019 +0300
+
+    only test.txt
+
+[33mcommit e15b1558731e03580a2ed3487b87d1d40e180c2a[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 13:54:50 2019 +0300
+
+    2 files change
+
+[33mcommit 824d0cdcec12747209b9cf3183807f17e7e2dad0[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 13:47:21 2019 +0300
+
+    New file
+
+[33mcommit 669aa215c51e7b2f34eebd373e2f066d268a6693[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 13:10:19 2019 +0300
+
+    Test status
+
+[33mcommit b917eb030678a8112c3a646e0318a90edbcf7dac[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 13:06:36 2019 +0300
+
+    second commit
+
+[33mcommit 34ead9b98e335bd5c54a63042bca6ed359e57a1d[m
+Author: Mezya <mezyaMojet@gmail.com>
+Date:   Thu Oct 17 13:04:45 2019 +0300
+
+    First Commit
